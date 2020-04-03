@@ -3,7 +3,7 @@ layout: post
 title: You're up and running!
 ---
 
-Next you holakeasecan update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Hola. Sé que esto de escribir un blog es algo que pasó de moda hace unos 20 años aproximadamente pero esto que estoy escribiendo ahora ni siquiera tienen la intención de ser un blog. Es tan solo un intento de aprender a trabajar con Jekyll. (shown below).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
