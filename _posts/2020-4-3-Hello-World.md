@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Primer intento
 ---
 
 Hola. Sé que esto de escribir un blog es algo que pasó de moda hace unos 20 años aproximadamente pero esto que estoy escribiendo ahora ni siquiera tienen la intención de ser un blog. Es tan solo un intento de aprender a trabajar con Jekyll. (shown below).
