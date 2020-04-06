@@ -12,11 +12,11 @@ todo esto,lo del blog, tiene una explicación:
 * el precio máximo de toda la infraestructura no debía sobrepasar los 5€.
 * en definitiva, necesitaba huir un poco del marketing de contenidos y escribir por placer. sin nadie que me recomiende usar añadir comas como si, en lugar de escrbir, estuviese hablando. 
 
-ayer vi **el mundo sigue** de fernando fernán gómez. a diferencia de [pedro almodóvar] (https://www.eldiario.es/tribunaabierta/largo-viaje-noche_6_1011458860.html) yo no me hago un 
+ayer vi **el mundo sigue** de fernando fernán gómez. a diferencia de [pedro almodóvar](https://www.eldiario.es/tribunaabierta/largo-viaje-noche_6_1011458860.html "lo de pedro almodóvar el eldiario.es") yo no me hago un 
 
 [I'm an inline-style link](https://www.google.com)
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+
 
 [I'm a reference-style link][Arbitrary case-insensitive reference text]
 
